@@ -1,0 +1,8 @@
+55
+You entered string instead of an integer. For input string: ""
+-1
+30
+0
+You entered string instead of an integer. For input string: "Hello,"
+You entered string instead of an integer. For input string: "Bob"
+64
